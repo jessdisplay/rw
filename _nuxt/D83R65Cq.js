@@ -1,7 +1,0 @@
-import{f as h,i as y,c as n,k as m,u as c,a as s,l as g,b as d,w as p,F as f,j as w,e as x,o as l,d as b,t as u,z as k}from"./FfAxkNvD.js";import{c as v}from"./ZI1yeYQt.js";const N={key:0,class:"section section-tight","aria-labelledby":"res-h"},V={class:"wrap"},C={class:"sec-head rv",style:{display:"flex","justify-content":"space-between","align-items":"flex-end",gap:"24px","flex-wrap":"wrap"}},S={class:"res-grid"},A={class:"r-tag"},B=`
-*[_type in ["article", "interview", "resource", "story"]] | order(coalesce(publishAt, date, _createdAt) desc)[0...3]{
-  _type,
-  title,
-  "slug": slug.current
-}
-`,L=h({__name:"ResearchSection",async setup(j){let t,i,a=[];try{a=([t,i]=y(()=>v.fetch(B)),t=await t,i(),t)}catch{a=[]}return(q,e)=>{const o=x;return c(a).length?(l(),n("section",N,[s("div",V,[s("div",C,[e[1]||(e[1]=g('<div><p class="eyebrow"><span class="stem" aria-hidden="true"></span><span class="node" aria-hidden="true"></span>Our research</p><h2 class="sec-title" id="res-h">Our <span class="serif-i">research</span></h2></div>',1)),d(o,{to:"/blog",class:"quote-link"},{default:p(()=>[...e[0]||(e[0]=[b("View all →",-1)])]),_:1})]),s("ul",S,[(l(!0),n(f,null,w(c(a),(r,_)=>(l(),n("li",{key:r.slug},[d(o,{class:"res-card rv",to:`/blog/${r.slug}`,style:k([{"--d":`${_*.06}s`},{height:"100%"}])},{default:p(()=>[s("span",A,u(r._type),1),s("h3",null,u(r.title),1),e[2]||(e[2]=s("span",{class:"arr"},"→",-1))]),_:2},1032,["to","style"])]))),128))])])])):m("",!0)}}});export{L as _};
