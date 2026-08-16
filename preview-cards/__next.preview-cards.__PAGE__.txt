@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[12085,["/rw/_next/static/chunks/12b9~mg3o6lnh.js","/rw/_next/static/chunks/0xs8ni7jz0o1p.js","/rw/_next/static/chunks/0m7bc_5kpnez7.js","/rw/_next/static/chunks/0r7zdmdzfo94q.js"],"StatementVideo"]
-3:I[63450,["/rw/_next/static/chunks/12b9~mg3o6lnh.js","/rw/_next/static/chunks/0xs8ni7jz0o1p.js","/rw/_next/static/chunks/0m7bc_5kpnez7.js","/rw/_next/static/chunks/0r7zdmdzfo94q.js"],"OsSection"]
+2:I[12085,["/rw/_next/static/chunks/12b9~mg3o6lnh.js","/rw/_next/static/chunks/0xs8ni7jz0o1p.js","/rw/_next/static/chunks/0m7bc_5kpnez7.js","/rw/_next/static/chunks/0y-b3vjhcox2t.js"],"StatementVideo"]
+3:I[63450,["/rw/_next/static/chunks/12b9~mg3o6lnh.js","/rw/_next/static/chunks/0xs8ni7jz0o1p.js","/rw/_next/static/chunks/0m7bc_5kpnez7.js","/rw/_next/static/chunks/0y-b3vjhcox2t.js"],"OsSection"]
 4:I[96237,["/rw/_next/static/chunks/12b9~mg3o6lnh.js","/rw/_next/static/chunks/0xs8ni7jz0o1p.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-primary-surface/40 text-foreground min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/rw/_next/static/chunks/0m7bc_5kpnez7.js","async":true}],["$","script","script-1",{"src":"/rw/_next/static/chunks/0r7zdmdzfo94q.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bvN-dD7_betxv0L18za0C"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-primary-surface/40 text-foreground min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/rw/_next/static/chunks/0m7bc_5kpnez7.js","async":true}],["$","script","script-1",{"src":"/rw/_next/static/chunks/0y-b3vjhcox2t.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-sp0eMhgd7rxY4_Ixp5qL"}
 6:null
