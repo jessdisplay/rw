@@ -12,7 +12,7 @@
           .hv-sky-r { animation: hv-sway-r 27s ease-in-out infinite alternate; }
           @keyframes hv-sway-l { to { transform: translate(28px, -14px); } }
           @keyframes hv-sway-r { to { transform: translate(-34px, -16px); } }
-          .hv-daybreak { animation: hv-daybreak var(--duration-ambient) var(--ease-settle)-out both; }
+          .hv-daybreak { animation: hv-daybreak var(--duration-ambient) var(--ease-out) both; }
           @keyframes hv-daybreak {
             from { filter: brightness(0.68) saturate(0.8); }
             to { filter: brightness(1) saturate(1); }
