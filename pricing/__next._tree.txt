@@ -9,4 +9,4 @@
 :HL["/rw/svg/star-white.svg","image"]
 :HL["/rw/pricing/1.webp","image"]
 :HL["/rw/svg/star.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pricing","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"UBKmXRhczHRZLoDvjk6Qq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pricing","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"bvN-dD7_betxv0L18za0C"}
