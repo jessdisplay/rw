@@ -11,4 +11,4 @@
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/d6e0075398ba3d090cc31a93e9446294d718eb55-800x600.jpg?w=250","image"]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/73e0e397247d8370c0a758528bbc22b61b8bb75d-2048x1152.png?w=250","image"]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/ad945ae118902d8b4955a31afa9b1ca5e4724b17-800x600.jpg?w=250","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"C800F4NxpAYYOCLvAUCnX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"7oMSmHOhYWnzmHDoaquE8"}
