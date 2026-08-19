@@ -12,4 +12,4 @@
 :HL["/rw/original/ryan.webp","image"]
 :HL["/rw/original/carolina.webp","image"]
 :HL["/rw/riseos1/cta.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"platform","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mZk0Cs7SGHWC62dSxY1-O"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"platform","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LcfP-jL-CmDk280LRgRwd"}
