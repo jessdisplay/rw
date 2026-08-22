@@ -8,4 +8,4 @@
 :HL["/rw/about/hero/crop_bg.webp","image"]
 :HL["/rw/about/hero/crop_flower.webp","image"]
 :HL["/rw/about/members_image.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"investor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MyTMXs8gmGM-IQ-7pwae4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"investor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_yb_rV9cT8lftEbafUY9t"}
