@@ -5,13 +5,13 @@ ONE LINE
   Rise is your compliance officer, without the expense.
 
 SHORT
-  Rise is the audit platform for both sides of the table: the NDIS providers who have to prove they are compliant, and the auditors who certify them.
+  Rise is the compliance platform for NDIS providers and the auditors who certify them. The whole law is mapped once, so evidence is built against the clause and assessed against the same clause.
 
 STANDARD
-  Rise is the audit platform for both sides of the table. Every clause of the NDIS legislation is mapped once, so providers walk in ready and auditors certify from the same source of truth. Policies, procedures, forms and registers stay current as the rules change, and evidence lands organised against the clause it answers.
+  Rise is the compliance platform for NDIS providers and the auditors who certify them. Every clause of the NDIS legislation is mapped once, so providers build their evidence against the clause and auditors assess it against the same clause. Policies, procedures, forms and registers stay current as the rules change, and evidence lands organised against the clause it answers.
 
 LONG
-  Rise is the audit platform for both sides of the table. Every clause of the NDIS legislation is mapped once, so providers walk in ready and auditors certify from the same source of truth.
+  Rise is the compliance platform for NDIS providers and the auditors who certify them. The whole law is mapped once, so providers build their evidence against the clause and auditors assess it against the same clause.
 
   For providers, Rise reads the law in plain English, keeps policies, procedures, forms and registers current as the rules change, and files evidence against the clause it answers rather than into a shared drive. For auditors, applicants arrive organised against the clauses, which is what takes a certification from forty hours to ten.
 
