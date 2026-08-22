@@ -7,4 +7,4 @@
 :HL["/rw/_next/static/media/Rounded_Regular-s.p.0gpx_pdx.ircx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/rw/about/hero/crop_bg.webp","image"]
 :HL["/rw/about/hero/crop_flower.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"investor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"eNSinIuK9WiYU6TR7282O"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"investor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Bmeo66lF2LDZsMNvuhvZW"}
