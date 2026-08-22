@@ -1,0 +1,59 @@
+RISE — COLOUR
+The raw ramps, 1:1 from the Figma colour sheet.
+
+NEUTRAL — The calm base. Ink, surfaces, borders.
+  neutral-0     #FFFFFF
+  neutral-50    #F1F4F8
+  neutral-100   #E0E3E7
+  neutral-200   #C7CACE
+  neutral-400   #525558
+  neutral-500   #3C3E41
+  neutral-600   #2D2F32
+  neutral-700   #1E1F21
+
+PRIMARY — The cream and butter the pages are lit with.
+  primary-50    #FEF9EB
+  primary-100   #FDEEC8
+  primary-300   #FBDC8C
+  primary-400   #FAD186
+  primary-500   #F9C85F
+  primary-700   #F7AA22
+
+WARNING — The amber the mark itself is set in.
+  warning-50    #FDEACE
+  warning-100   #FCDBAC
+  warning-300   #F9C178
+  warning-500   #F59432
+  warning-700   #E46512
+
+SUCCESS — Evidence accepted, clause satisfied.
+  success-50    #B4F9E7
+  success-100   #63F2CD
+  success-300   #25E2B8
+  success-500   #00CDA6
+  success-700   #00A485
+  success-900   #00705B
+
+INFO — Guidance and cross-references.
+  info-100      #9EF4FF
+  info-300      #5BE8FF
+  info-400      #38DAFF
+  info-500      #00D0FF
+  info-700      #00B6E5
+  info-900      #006782
+
+ERROR — Gaps, expiries, blocked certification.
+  error-50      #FFE5EA
+  error-100     #FFCCD5
+  error-300     #FFA2B4
+  error-500     #FE7A95
+  error-700     #F84971
+  error-900     #7D2036
+
+TAB — The warm cream-to-brown control ramp.
+  tab-50        #FAF6F0
+  tab-100       #F2EBE3
+  tab-300       #D9B98A
+  tab-500       #805100
+  tab-700       #573700
+
