@@ -10,4 +10,4 @@
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/6249a69452715d44284f7f6253a217ccc740179c-1600x1073.jpg?w=600","image"]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/beea706d758673fafd407ba11a89bac4d57df837-1600x1074.jpg?w=600","image"]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/afa84209815f59cdb220546c8d26fc6caf284bd0-1600x1074.jpg?w=1200","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"harmony-care-provisional-certification","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"cyYQPJ9vzvboeDeEPUmtE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"harmony-care-provisional-certification","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"6K5V1QefL8OoEKsJMQM8V"}
