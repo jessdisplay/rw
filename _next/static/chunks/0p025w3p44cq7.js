@@ -22,7 +22,7 @@
              type on the right (measured: at 70% reach "Improving" fell to
              3.1:1 at full light). */
           background: radial-gradient(
-            55% 60% at 29% 60%,
+            55% 60% at 29% 27%,
             var(--color-primary-surface) 0%,
             color-mix(in srgb, var(--color-primary-surface), transparent 100%) 62%
           );
