@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /investor
+Disallow: /compliance-graph
+
+Sitemap: https://riseos.care/sitemap.xml
