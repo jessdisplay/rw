@@ -2,7 +2,7 @@ RISE: APPROVED DESCRIPTIONS
 Use these as written. Press contact: jesse@riseos.care
 
 ONE LINE
-  Rise is your compliance officer, without the expense.
+  Rise is your compliance engine, without the expense.
 
 SHORT
   Rise is the compliance platform for NDIS providers and the auditors who certify them. The whole law is mapped once, so evidence is built against the clause and assessed against the same clause.
