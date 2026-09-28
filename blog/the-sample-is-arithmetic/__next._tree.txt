@@ -8,4 +8,4 @@
 :HL["/rw/_next/static/media/Rounded_Regular-s.p.0gpx_pdx.ircx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/5c4a2960d9480f21d74d3e45f185c4b90a7fe51a-1344x752.jpg?w=1200&auto=format","image"]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/09ac9d34894b54e9c70eb603cdaa56130586aada-1344x752.jpg?w=1200&auto=format","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"the-sample-is-arithmetic","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pphyxQFCEFSjjW6rXdSHT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"the-sample-is-arithmetic","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"U99USHRMGnkdq1chjcFEs"}

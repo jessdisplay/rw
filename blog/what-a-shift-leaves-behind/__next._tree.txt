@@ -8,4 +8,4 @@
 :HL["/rw/_next/static/media/Rounded_Regular-s.p.0gpx_pdx.ircx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/33fadf29fa5ef89a772d7803d66bcd02f77b0753-1344x752.jpg?w=1200&auto=format","image"]
 :HL["https://cdn.sanity.io/images/la55e7ch/blog-data/e1e752fdf1f3b455ec0f487cce1a99b4f4551275-1344x752.jpg?w=1200&auto=format","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"what-a-shift-leaves-behind","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pphyxQFCEFSjjW6rXdSHT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"what-a-shift-leaves-behind","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"U99USHRMGnkdq1chjcFEs"}
